@@ -27,9 +27,3 @@ Este é um jogo simples onde o usuário deve adivinhar o número secreto gerado 
 - JavaScript (ES6+)
 - [Google Fonts](https://fonts.google.com/)
 - [ResponsiveVoice](https://responsivevoice.org/) (configurado, mas não utilizado ativamente)
-
----
-
-## 📸 Preview
-
-<img src="./img/preview.png" alt="Captura de tela do jogo" width="700">
