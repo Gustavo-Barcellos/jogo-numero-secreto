@@ -1,16 +1,16 @@
-# 🎯 Jogo do Número Secreto
+# Jogo do Número Secreto
 
 Um projeto desenvolvido com **HTML**, **CSS** e **JavaScript**, criado durante o curso da [Alura](https://www.alura.com.br) com o objetivo de aplicar os fundamentos de lógica de programação, manipulação do DOM e estilização de páginas.
 
 ---
 
-## 💡 Sobre o Projeto
+## Sobre o Projeto
 
 Este é um jogo simples onde o usuário deve adivinhar o número secreto gerado aleatoriamente entre 1 e 50. O sistema fornece dicas (maior ou menor) e contabiliza o número de tentativas até o acerto.
 
 ---
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Geração aleatória de número secreto
 - Evita repetição de números já sorteados
