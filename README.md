@@ -25,5 +25,3 @@ Este é um jogo simples onde o usuário deve adivinhar o número secreto gerado 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [Google Fonts](https://fonts.google.com/)
-- [ResponsiveVoice](https://responsivevoice.org/) (configurado, mas não utilizado ativamente)
